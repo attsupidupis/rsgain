@@ -63,11 +63,11 @@ pkg install rsgain
 
 #### Debian/Ubuntu
 
-An amd64 .deb package is provided on the [release page](https://github.com/complexlogic/rsgain/releases/latest). It is installable on Debian Bullseye and later, Ubuntu 21.04 and later. It can be installed with the following commands:
+An amd64 .deb package is provided on the [release page](https://github.com/complexlogic/rsgain/releases/latest). It is installable on Debian Bookworm and Ubuntu 23.04.
 
 ```bash
-wget https://github.com/complexlogic/rsgain/releases/download/v3.3/rsgain_3.3_amd64.deb
-sudo apt install ./rsgain_3.3_amd64.deb
+wget https://github.com/complexlogic/rsgain/releases/download/v3.3/rsgain_3.3-1_amd64.deb
+sudo apt install ./rsgain_3.3-1_amd64.deb
 ```
 
 #### Arch/Manjaro
